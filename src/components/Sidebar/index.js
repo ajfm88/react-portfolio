@@ -56,11 +56,11 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.instagram.com/ajfm88"
+            href="https://www.facebook.com/ajfm88"
             rel="noreferrer"
             target="_blank"
           >
-            <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
+            <FontAwesomeIcon icon={faFacebook} color="#4d4d4e" />
           </a>
         </li>
         <li>
@@ -74,11 +74,11 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.facebook.com/ajfm88"
+            href="https://www.instagram.com/ajfm88"
             rel="noreferrer"
             target="_blank"
           >
-            <FontAwesomeIcon icon={faFacebook} color="#4d4d4e" />
+            <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
           </a>
         </li>
         <li>
