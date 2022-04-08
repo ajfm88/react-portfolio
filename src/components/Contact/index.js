@@ -50,7 +50,7 @@ const Contact = () => {
           </h1>
           <p>
             I am interested in full-time job opportunities - especially ambitious or
-            large projects in Web3 DApps. However, if you have other request or question,
+            large projects in ReactJS. However, if you have any other request or question,
             please don't hesitate in contacting me using the form below.
           </p>
           <div className="contact-form">

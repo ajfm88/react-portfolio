@@ -33,15 +33,19 @@ const About = () => {
             />
           </h1>
           <p>
+            Hi. I'm Alejandro, nice to meet you. Please take a look around.
+          </p>
+          <p>
             I'm a very ambitious Software Engineer and front-end developer looking for
             a role in a tech company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
-          <p align="LEFT">
-            I believe in improving myself and in honing my coding and problem solving
+          <p>
+            I am passionate about building excellent software that improves
+            the lives of those around me. I also believe in improving myself and in honing my coding and problem solving
             skills daily. The tech world advances at a rapid pace and the only way to
             keep up is to be on top of one's skillset.
-          </p>
+          </p>  
           <p>
             I am also a fitness enthusiast, an avid reader (both fiction and non-fiction),
             a language learner (currently at an intermediate level in Japanese), and 
